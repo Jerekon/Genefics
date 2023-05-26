@@ -8,7 +8,7 @@ public class Main {
         MagicBox<String> stringMagicBox = new MagicBox<>(size:4);
         StringMagicBox.add("123");
         StringMagicBox.add("qwerty");
-        StringMagicBox.add("someString");
+        StringMagicBox.add("eeeeee");
         StringMagicBox.add("magicString");
 
         System.out.println (pick);
